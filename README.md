@@ -1,2 +1,3 @@
 # hello-world
 First repository for learning
+First changes... doing and hoping for best...
